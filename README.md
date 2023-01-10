@@ -13,10 +13,6 @@ LED,
 Arduino IDE Software,
 
 
-# Working Flow Chart
-
-![image](https://user-images.githubusercontent.com/81632017/157458978-72104797-095d-4e17-b580-e0312edea237.png)
-
 # Output
 
 https://user-images.githubusercontent.com/81632017/157471975-c68bc910-17ba-4d45-8c51-3c2105ceaad7.mp4
